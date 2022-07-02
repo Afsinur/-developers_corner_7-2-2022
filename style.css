@@ -16,7 +16,7 @@ body {
   height: 100vh;
   width: 100%;
 
-  background-color: aquamarine;
+  background-image: url(img/img.jpg);
 }
 
 div.app {
@@ -24,7 +24,7 @@ div.app {
 
   padding: 15px;
 
-  background-color: brown;
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 div.app > form {
